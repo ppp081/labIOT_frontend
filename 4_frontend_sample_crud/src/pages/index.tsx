@@ -2,7 +2,7 @@ import Layout from "../components/layout";
 import cafeBackgroundImage from "../assets/images/bg-cafe-1.jpg";
 import ajPanwitImage from "../assets/images/aj-panwit.jpg";
 import coffeeImage from "../assets/images/coffee-1.jpg";
-import  IMG_Punch from "../assets/images/IMG_Punch.jpg";
+import  IMG_Punch from "../assets/images/IMG_Punch.png";
 
 export default function HomePage() {
   return (
